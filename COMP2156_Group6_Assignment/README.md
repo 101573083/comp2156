@@ -2,5 +2,5 @@
 
 
 
-This folder contains all of the project files for Group 6's Comp 2156 DevOps assignment.  
+This folder contains all of the project files for Group 6's COMP 2156 DevOps assignment.  
 
